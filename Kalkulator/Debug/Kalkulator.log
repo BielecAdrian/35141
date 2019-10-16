@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\PythonLearning\35141\Kalkulator\main.cpp(260): warning C4101: "wynik": lokalna zmienna, do której nie istnieje odwołanie
+E:\PythonLearning\35141\Kalkulator\main.cpp(372): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+E:\PythonLearning\35141\Kalkulator\main.cpp(375): warning C4244: "+=": konwersja z "double" do "__int64", możliwa utrata danych
+  Kalkulator.vcxproj -> E:\PythonLearning\35141\Kalkulator\Debug\Kalkulator.exe

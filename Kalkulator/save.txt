@@ -1,0 +1,36 @@
+Na systemie Oktalny na Binarny
+Q <--Weszlo
+Q <--Wyszlo
+Na systemie Oktalny na Binarny
+40 <--Weszlo
+100000 <--Wyszlo
+Na systemie Oktalny na Binarny
+30 <--Weszlo
+011000 <--Wyszlo
+Na systemie Oktalny na Binarny
+5 <--Weszlo
+101 <--Wyszlo
+Na systemie Oktalny na Binarny
+7 <--Weszlo
+111 <--Wyszlo
+Na systemie Oktalny na Binarny
+10 <--Weszlo
+001000 <--Wyszlo
+Na systemie Oktalny na Binarny
+10 <--Weszlo
+001000 <--Wyszlo
+Na systemie Oktalny na Binarny
+10 <--Weszlo
+001000 <--Wyszlo
+Na systemie Oktalny na Binarny
+Q <--Weszlo
+Q <--Wyszlo
+Na systemie Decymalny na Binarny
+10 <--Weszlo
+1010 <--Wyszlo
+Na systemie Decymalny na Binarny
+30 <--Weszlo
+11110 <--Wyszlo
+Na systemie Decymalny na Binarny
+303030 <--Weszlo
+1001001111110110110 <--Wyszlo
